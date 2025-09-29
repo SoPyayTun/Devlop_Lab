@@ -1,3 +1,4 @@
-[![A workflow for my Hello World App](https://github.com/SoPyayTun/Devlop_Lab/actions/workflows/main.yml/badge.svg)](https://github.com/SoPyayTun/Devlop_Lab/actions/workflows/main.yml)
-[![LICENSE](https://img.shields.io/github/license/SoPyayTun/Devlop_Lab.svg?style=flat-square)](https://github.com/SoPyayTun/Devlop_Lab/blob/main/LICENSE)
-[![Releases](https://img.shields.io/github/release/SoPyayTun/Devlop_Lab/all.svg?style=flat-square)](https://github.com/SoPyayTun/Devlop_Lab/releases)
+- Main Build Status ![Build Status](https://img.shields.io/github/actions/workflow/status/SoPyayTun/Devlop_Lab/main.yml?branch=main&style=flat-square)
+- Develop Build Status ![Build Status](https://img.shields.io/github/actions/workflow/status/SoPyayTun/Devlop_Lab/main.yml?branch=develop&style=flat-square)
+- License [![LICENSE](https://img.shields.io/github/license/SoPyayTun/Devlop_Lab.svg?style=flat-square)](https://github.com/SoPyayTun/Devlop_Lab/blob/main/LICENSE)
+- Release [![Releases](https://img.shields.io/github/release/SoPyayTun/Devlop_Lab/all.svg?style=flat-square)](https://github.com/SoPyayTun/Devlop_Lab/releases)
