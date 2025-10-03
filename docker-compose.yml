@@ -13,4 +13,4 @@ services:
       MYSQL_DATABASE: employees
       MYSQL_ROOT_HOST: "%"
     ports:
-      - "33060:3306"
+      - "3306:3306"
