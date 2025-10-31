@@ -53,8 +53,6 @@ public class App
         }
     }
 
-
-
     /**
      * Disconnect from the MySQL database.
      */
