@@ -1,4 +1,4 @@
-FROM openjdk:24
-COPY ./target/Devlop_Lab-0.1.0.6-SNAPSHOT-jar-with-dependencies.jar /tmp
+FROM openjdk:latest
+COPY ./target/devops.jar /tmp
 WORKDIR /tmp
-ENTRYPOINT ["java", "-jar", "Devlop_Lab-0.1.0.6-SNAPSHOT-jar-with-dependencies.jar"]
+ENTRYPOINT ["java", "-jar", "devops.jar", "db:3306", "30000"]
